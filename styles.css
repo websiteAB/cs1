@@ -185,13 +185,13 @@ body{
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  height: 3900px;
+  height: 3000px;
   position: absolute;
   left: 0;
   right: 0;
   z-index: -1;
-  filter: blur(26px);
-  -webkit-filter: blur(26px);
+  filter: blur(19px);
+  -webkit-filter: blur(19px);
 }
 .header{
   width: 100%;
