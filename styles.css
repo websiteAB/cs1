@@ -190,8 +190,8 @@ body{
   left: 0;
   right: 0;
   z-index: -1;
-  filter: blur(22px);
-  -webkit-filter: blur(22px);
+  filter: blur(26px);
+  -webkit-filter: blur(26px);
 }
 .header{
   width: 100%;
