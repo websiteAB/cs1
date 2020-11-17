@@ -191,7 +191,7 @@ body{
   right: 0;
   z-index: -1;
   filter: blur(15px);
-  -webkit-filter: blur(18px);
+  -webkit-filter: blur(22px);
 }
 .header{
   width: 100%;
